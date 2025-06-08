@@ -1,6 +1,6 @@
 ![My GIF](./assets/helloGit.gif)
 
-## 👋 Hi! I'm a developer.
+## 👨‍💻 I'm a developer.
 
 I enjoy writing clean and efficient code.
 
