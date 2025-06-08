@@ -1,4 +1,4 @@
-![My GIF](./Assets/helloGit.gif)
+![My GIF](./assets/helloGit.gif)
 
 ## 👋 Hi! I'm a developer.
 
